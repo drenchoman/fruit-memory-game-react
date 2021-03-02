@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/fruit-memory-game-react/static/css/main.656846d9.chunk.css",
+    "main.js": "/fruit-memory-game-react/static/js/main.dbb4d2bc.chunk.js",
+    "main.js.map": "/fruit-memory-game-react/static/js/main.dbb4d2bc.chunk.js.map",
+    "runtime-main.js": "/fruit-memory-game-react/static/js/runtime-main.0baee3f9.js",
+    "runtime-main.js.map": "/fruit-memory-game-react/static/js/runtime-main.0baee3f9.js.map",
+    "static/js/2.7d8178c6.chunk.js": "/fruit-memory-game-react/static/js/2.7d8178c6.chunk.js",
+    "static/js/2.7d8178c6.chunk.js.map": "/fruit-memory-game-react/static/js/2.7d8178c6.chunk.js.map",
+    "index.html": "/fruit-memory-game-react/index.html",
+    "static/css/main.656846d9.chunk.css.map": "/fruit-memory-game-react/static/css/main.656846d9.chunk.css.map",
+    "static/js/2.7d8178c6.chunk.js.LICENSE.txt": "/fruit-memory-game-react/static/js/2.7d8178c6.chunk.js.LICENSE.txt",
+    "static/media/angryapple.bb884a65.png": "/fruit-memory-game-react/static/media/angryapple.bb884a65.png",
+    "static/media/apple.50ccd3e7.png": "/fruit-memory-game-react/static/media/apple.50ccd3e7.png",
+    "static/media/banana.b74f669a.png": "/fruit-memory-game-react/static/media/banana.b74f669a.png",
+    "static/media/cherry.43065153.png": "/fruit-memory-game-react/static/media/cherry.43065153.png",
+    "static/media/doublecherry.d9718129.png": "/fruit-memory-game-react/static/media/doublecherry.d9718129.png",
+    "static/media/grapefruit.0d771c44.png": "/fruit-memory-game-react/static/media/grapefruit.0d771c44.png",
+    "static/media/kiwi.bdc40218.png": "/fruit-memory-game-react/static/media/kiwi.bdc40218.png",
+    "static/media/lime.dd89de31.png": "/fruit-memory-game-react/static/media/lime.dd89de31.png",
+    "static/media/orange.2dbb4ca3.png": "/fruit-memory-game-react/static/media/orange.2dbb4ca3.png",
+    "static/media/pear.a46a4219.png": "/fruit-memory-game-react/static/media/pear.a46a4219.png",
+    "static/media/pineapple.b1d9d48f.png": "/fruit-memory-game-react/static/media/pineapple.b1d9d48f.png",
+    "static/media/pinklemon.fdcbcfc5.png": "/fruit-memory-game-react/static/media/pinklemon.fdcbcfc5.png",
+    "static/media/redapple.e1577568.png": "/fruit-memory-game-react/static/media/redapple.e1577568.png",
+    "static/media/strawberry.568501ed.png": "/fruit-memory-game-react/static/media/strawberry.568501ed.png",
+    "static/media/watermelon.96bb8938.png": "/fruit-memory-game-react/static/media/watermelon.96bb8938.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0baee3f9.js",
+    "static/js/2.7d8178c6.chunk.js",
+    "static/css/main.656846d9.chunk.css",
+    "static/js/main.dbb4d2bc.chunk.js"
+  ]
+}
